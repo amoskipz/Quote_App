@@ -2,7 +2,7 @@
 
 ## Author
 
-  Kiprotich Dominic Korir
+  Kiprotich Amos Koech
 
 ## Description
 
@@ -24,7 +24,7 @@
 
 ## Contact
 
-- Kiprotich Dominic</a>
+- Kiprotich Amos Koech</a>
 
 ## Development server
 
